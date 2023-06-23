@@ -47,7 +47,7 @@ ReactJs, Axios, Web3, Django, SQLite, HTML, CSS, Blockchain...
 Clone the project
 
 ```bash
-  git clone https://github.com/sneha-16hub/Blockchain/tree/main/Frontend
+  git clone https://github.com/last-dragon/Blockchain/tree/main/Frontend
 ```
 
 Install dependencies
@@ -72,7 +72,7 @@ Create a virtual environment to store your projects dependencies separately
 Clone the project
 
 ```bash
-  git clone https://github.com/sneha-16hub/Blockchain/tree/main/Backend
+  git clone https://github.com/last-dragon/Blockchain/tree/main/Backend
 ```
 
 Run the following command in the base directory of this project
@@ -101,7 +101,6 @@ Start the server
 ```
 
 ## Contributors
+https://github.com/last-dragon
 
 https://github.com/sneha-16hub/
-
-https://github.com/Anirudh1331/
